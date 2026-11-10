@@ -1,0 +1,6 @@
+Streamlit vs Flask vs React
+Feature	Streamlit	Flask	React
+Language	Python	Python	JavaScript
+Main use	AI/Data apps	Backend/web apps	Frontend UI
+Beginner-friendly	Very easy	Moderate	Moderate
+UI development	Built-in	Templates/frontend needed	Build yourself
